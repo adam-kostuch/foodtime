@@ -121,5 +121,3 @@ const InfoBox = ({ children }: { children: ReactNode }) => {
 const InfoBoxTypography = ({ children }: { children: ReactNode }) => {
   return <Typography sx={{ fontSize: '0.9em' }}>{children}</Typography>;
 };
-
-// Github
