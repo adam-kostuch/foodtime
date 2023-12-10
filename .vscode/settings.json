@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "openapi:v3": "file:///Users/adam.kostuch/Desktop/private/foodtime/api/swagger/openapi.yaml"
+  }
+}

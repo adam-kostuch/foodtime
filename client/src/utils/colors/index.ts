@@ -1,0 +1,10 @@
+export const midnightDark = '#212129';
+export const midnightDarker = '#1C1B20	';
+export const spookyGrey = '#1f363d';
+export const pumpkinOrange = '#fc4c02';
+export const sundownYellow = '#fcca46';
+export const rustyBrown = '#2d080a';
+export const oakBrown = '#7c3626';
+export const bloodyRed = '#960018';
+export const dirtyWhite = '#f4fdff';
+export const autumnGreen = '##71B390';

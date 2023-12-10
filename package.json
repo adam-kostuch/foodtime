@@ -1,0 +1,10 @@
+{
+  "name": "foodtime",
+  "version": "0.0.1",
+  "description": "Forum with cooking dishes, where whoever is welcome.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@adam-kostuch",
+  "license": "ISC"
+}
