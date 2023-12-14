@@ -88,6 +88,7 @@ const AddRecipePage = () => {
               height: '80vh',
               position: 'relative',
               display: 'flex',
+              flexWrap: 'wrap',
               flexDirection: 'center',
               alignItems: 'center',
             }}
@@ -220,7 +221,7 @@ const AddRecipePage = () => {
                 </Grid>
               </form>
             </Container>
-            <Box position="relative" bottom="0" pb={4} width="90%">
+            <Box position="relative" bottom="0" pb={2} width="90%">
               <Flex justifyContent="right">
                 <Button variant="outlined" href="/recipes">
                   All recipes
